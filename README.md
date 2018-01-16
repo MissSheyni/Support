@@ -1,5 +1,5 @@
 ## به صفحات GitHub خوش آمدید
-شما می توانید [ویرایشگر در GitHub] ( https://github.com/MissSheyni/Support/edit/master/README.md ) برای حفظ و پیش نمایش محتوای وب سایت خود در فایلgraهای Markdown استفاده کنید.
+شما می توانید [ویرایشگر در GitHub] ( https://github.com/MissSheyni/Support/edit/master/README.mdu ) برای حفظ و پیش نمایش محتوای وب سایت خود در فایل Grays Markdown استفاده کنید.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
